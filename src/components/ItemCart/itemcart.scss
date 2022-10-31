@@ -108,3 +108,13 @@ li > .right > .delete-product > img {
 p {
     margin: 0px;
 }
+.piece {
+    display: flex;
+    justify-content: space-between;
+}
+.left {
+    width: 80%;
+}
+.right {
+    width: 20%;
+}
