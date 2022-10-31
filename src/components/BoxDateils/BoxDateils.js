@@ -1,4 +1,4 @@
-import "./boxdateils.scss"
+import "./boxdateils.scss";
 const BoxDateils = () => {
   return (
     <div className="book-details-biboo">
@@ -41,4 +41,4 @@ const BoxDateils = () => {
     </div>
   );
 };
-export default BoxDateils
+export default BoxDateils;

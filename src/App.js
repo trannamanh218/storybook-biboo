@@ -12,6 +12,7 @@ import Pdf from "./pages/Pdf";
 import Question from "./pages/Question";
 import Login from "./pages/Login";
 import Search from "./pages/Search";
+import Cart from "./pages/Cart";
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
         <Route path="pdf" element={<Pdf/>}/>
         <Route path="question" element={<Question/>}/>
         <Route path="login" element={<Login/>}/>
+        <Route path="cart" element={<Cart/>}/>
       </Routes>
     </BrowserRouter>
   );
