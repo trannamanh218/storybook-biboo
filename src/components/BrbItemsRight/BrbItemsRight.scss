@@ -1,0 +1,71 @@
+.biboo > .brb-items-right {
+    width: 23%;
+}
+.brb-items-right {
+    background: #fcfcfc;
+    padding: 70px 30px 0px 30px;
+}
+.bg-brb-items-right {
+    background: #fcfcfc;
+}
+.option-brb-items-right {
+    justify-content: space-around;
+    margin-bottom: 61px;
+    align-items: center;
+    margin-top: 6px;
+}
+.option-brb-items-right .cart-option-brb-items-right,
+.option-brb-items-right .bell-option-brb-items-right,
+.option-brb-items-right .user-option-brb-items-right {
+    cursor: pointer;
+}
+.listen-a-lot-brb-items-right .title-listen-a-lot p {
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #262338;
+    margin: 30px 0px;
+}
+.book-topic {
+    background: #eff0f7;
+    border-radius: 8px;
+    padding: 2px 4px;
+    margin-bottom: 20px;
+}
+.books-listen-a-lot {
+    margin-bottom: 40px;
+}
+.numerical-order-book {
+    width: 30px;
+    position: absolute;
+    top: -12px;
+    left: -12px;
+}
+.book-topic p {
+    font-family: SVN-Gilroy-regular;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: 0.75px;
+    color: #6e7191;
+}
+.evaluate-book {
+    align-items: center;
+}
+.evaluate-book > img {
+    width: 20px;
+}
+.evaluate-book > p {
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0.75px;
+    color: #a0a3bd;
+}
+

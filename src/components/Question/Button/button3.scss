@@ -1,0 +1,36 @@
+@font-face {
+    font-family: PoppinsVN;
+    src: url("../../../../public/fonts/SVN-Gilroy\ SemiBold.otf");
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url("../../../../public/fonts/SVN-Gilroy\ SemiBold.otf") format("truetype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url("../../../../public/fonts/SVN-Gilroy\ SemiBold.otf") format("truetype");
+    font-weight: 600;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url("../../../../public/fonts/SVN-Gilroy\ Regular.otf") format("truetype");
+    font-weight: 400;
+}
+.button3 {
+    background: #3d40c6;
+}
+button {
+    border: 1.29437px solid #d9dbe9;
+    border-radius: 5.17749px;
+    padding: 0px 15px;
+    height: 41.42px;
+}
+button > span {
+    font-style: normal;
+    font-family: SVN-Gilroy;
+    font-weight: bold;
+    font-size: 22.0043px;
+    line-height: 31px;
+    color: #fcfcfc
+}

@@ -1,0 +1,29 @@
+.footer {
+    display: flex;
+    align-items: center;
+}
+.a {
+    justify-content: center !important;
+}
+.footer > .icon-next-left, .footer > .icon-next-right {
+    border: none;
+    background: none;
+    height: auto;
+}
+.footer > .button-center {
+    background: #3d40c6;
+    border-radius: 36px;
+    border: none;
+    width: 706.4px;
+    height: 72px;
+    margin: 0px 72.82px;
+}
+.footer > .button-center > span {
+    font-family: PoppinsVN;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21.6px;
+    line-height: 35px;
+    text-align: center;
+    color: #f7f7fc;
+}

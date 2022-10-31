@@ -1,0 +1,214 @@
+.listen-to-read-books {
+    background-image: url("../../../public/img/Rectangle.png");
+    background-repeat: no-repeat;
+}
+.listen-to-read-books .header-listen-to-read-books {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 95%;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+.listen-to-read-books .header-listen-to-read-books .right-icon {
+    display: flex;
+    align-items: center;
+}
+.listen-to-read-books .header-listen-to-read-books .right-icon a {
+    margin: 0px 15px;
+}
+.listen-to-read-books .header-listen-to-read-books .right-icon .cart-right-icon {
+    padding: 10px;
+    background: #f7f7fc;
+    border-radius: 50%;
+}
+.listen-to-read-books .header-listen-to-read-books .right-icon .bell-right-icon {
+    padding: 7px 9px;
+    background: #f7f7fc;
+    border-radius: 50%;
+}
+.book-details-biboo {
+    margin: auto;
+    display: flex;
+    width: 80%;
+    padding-bottom: 160px;
+}
+.book-details-biboo .left-book-details-biboo {
+    width: 25%;
+    margin-right: 60px;
+}
+/* .book-details-biboo .left-book-details-biboo>img {
+      width: 385.94px;
+      height: 417px;
+  } */
+.book-details-biboo .right-book-details-biboo {
+    width: 75%;
+}
+.book-details-biboo .right-book-details-biboo .title-book-details-biboo {
+    font-family: SVN-Gilroy-Bold;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 64px;
+    letter-spacing: 1px;
+    color: #262338;
+    margin-bottom: 24px;
+}
+.details-biboo {
+    background: #f7f7fc;
+}
+.book-details-biboo .right-book-details-biboo .author-book-details-biboo {
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #6e7191;
+    margin-bottom: 40px;
+}
+.items-right-book-details-biboo {
+    display: flex;
+    justify-content: space-between;
+}
+.items-right-book-details-biboo .listen-for-free {
+    background: #3d40c6;
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 0.75px;
+    color: #f7f7fc;
+    border: none;
+    width: 327px;
+    height: 72px;
+    border-radius: 96px;
+    text-decoration: none;
+}
+.items-right-book-details-biboo .proofread {
+    background: #00c7ff;
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 0.75px;
+    color: #f7f7fc;
+    border: none;
+    width: 240px;
+    height: 72px;
+    border-radius: 96px;
+    text-decoration: none;
+}
+.items-right-book-details-biboo .buy-books {
+    border: 3.6px solid #ff4c4d;
+    border-radius: 172.8px;
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 0.75px;
+    color: #ff4c4d;
+    background: none;
+    width: 275px;
+    height: 72px;
+}
+.ratings-listen-to-read-books {
+    display: flex;
+    justify-content: center;
+    width: 75%;
+}
+.ratings-listen-to-read-books > div {
+    margin: 0px 5px;
+}
+.book-details-details-biboo {
+    width: 78%;
+    margin: auto;
+    margin-top: -65px;
+}
+.book-details-details-biboo .nav-tabs {
+    border: none;
+    margin: 0px !important;
+    margin-bottom: 80px !important;
+}
+.book-details-details-biboo .nav-tabs .nav-item button {
+    border: none;
+    font-family: SVN-Gilroy-Bold;
+    background: none;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 56px;
+    letter-spacing: 1px;
+    color: #262338;
+    padding: 0px;
+    margin-right: 50px;
+}
+.book-details-details-biboo .time-books,
+.book-details-details-biboo .number-books,
+.book-details-details-biboo .Category-books {
+    display: flex;
+    align-items: center;
+    margin-bottom: 55px;
+}
+.book-details-details-biboo .time-books .title,
+.book-details-details-biboo .number-books .title,
+.book-details-details-biboo .Category-books .title {
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #262338;
+    width: 15%;
+}
+.book-details-details-biboo .time-books .text,
+.book-details-details-biboo .number-books .text,
+.book-details-details-biboo .Category-books .text {
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #6e7191;
+}
+.book-details-details-biboo .introduce-book {
+    padding-bottom: 0px;
+}
+.book-details-details-biboo .introduce-book .title {
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #262338;
+    margin-bottom: 40px;
+}
+.book-details-details-biboo .introduce-book .text {
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #6e7191;
+}
+img {
+    width: 100%;
+}

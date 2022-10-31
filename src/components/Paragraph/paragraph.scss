@@ -1,0 +1,64 @@
+.paragraph {
+    background: linear-gradient(95.08deg, rgba(227, 247, 255, 0.4) 2.49%, rgba(255, 216, 195, 0.4) 97.19%);
+    padding: 40px;
+    border-radius: 12px;
+    margin-bottom: 40px;
+}
+.paragraph > .title {
+    font-family: SVN-Gilroy-Bold;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #4e4b66;
+    width: 76%;
+    margin-bottom: 64px;
+}
+.option-paragraph {
+    display: flex;
+    justify-content: flex-end;
+}
+.detail .option-paragraph .read-a-book {
+    background: none;
+    border: 1px solid;
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 0.75px;
+    color: #00c7ff;
+    border-radius: 100px;
+    width: 200px;
+    height: 66px;
+    text-decoration: none;
+}
+.option-paragraph > .read-a-book {
+    background: none;
+    border: 1px solid;
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 0.75px;
+    color: #00c7ff;
+    border-radius: 100px;
+    width: 200px;
+    height: 66px;
+    text-decoration: none;
+    background: none;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px
+}

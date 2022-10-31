@@ -1,0 +1,47 @@
+@font-face {
+    font-family: SVN-Gilroy-regular;
+    src: url("../../../public/fonts/SVN-Gilroy\ Regular.otf");
+}
+
+@font-face {
+    font-family: SVN-Gilroy-Bold;
+    src: url("../../../public/fonts/SVN-Gilroy\ Bold.otf");
+}
+.brb-search {
+    position: relative;
+    margin: auto;
+    margin-bottom: 50px;
+    width: 100%;
+}
+.brb-search .icon-brb-search {
+    position: absolute;
+    top: 16px;
+    left: 30px;
+}
+.slick-cloned {
+    width: 503.6px !important;
+    height: 309.15px !important;
+}
+.brb-search input {
+    font-family: SVN-Gilroy-regular;
+    width: 100%;
+    font-size: 20px;
+    border: none;
+    background: #eff0f7;
+    border-radius: 16px;
+    padding: 15px 80px;
+}
+.brb-search input::placeholder {
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.75px;
+    color: #6e7191;
+}
+.brb-search input:focus-visible {
+    outline: none;
+}

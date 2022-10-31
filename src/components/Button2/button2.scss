@@ -1,0 +1,25 @@
+.listen-radio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #3d40c6;
+    width: 239.25px;
+    height: 66px;
+    border: none;
+    border-radius: 39.6px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+.listen-radio span {
+    font-family: SVN-Gilroy-regular;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 34px;
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.75px;
+    color: #fcfcfc;
+}

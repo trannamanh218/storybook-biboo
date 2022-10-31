@@ -1,0 +1,58 @@
+@font-face {
+    font-family: PoppinsVN;
+    src: url("../../../../public/fonts/SVN-Gilroy\ SemiBold.otf");
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url("../../../../public/fonts/SVN-Gilroy\ SemiBold.otf") format("truetype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url("../../../../public/fonts/SVN-Gilroy\ SemiBold.otf") format("truetype");
+    font-weight: 600;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url("../../../../public/fonts/SVN-Gilroy\ Regular.otf") format("truetype");
+    font-weight: 400;
+}
+.answer-choice {
+    padding: 0px;
+    margin: 0px auto;
+    width: 47%;
+    margin-bottom: 70px;
+}
+.answer-choice .bđ-bottom {
+    border-bottom: 1px solid #e3e5f2;
+    display: flex;
+}
+.answer-choice li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 0px 12px 0px;
+    cursor: pointer;
+}
+.answer-choice > li > .text-answer-choice {
+    font-style: normal;
+    font-family: SVN-Gilroy;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #060606;
+    width: 90%;
+    margin: 0px;
+}
+.answer-choice > li > .icon-answer-choice {
+    width: 20px;
+    height: 20px;
+    background: #eff0f7;
+    border-radius: 50px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
