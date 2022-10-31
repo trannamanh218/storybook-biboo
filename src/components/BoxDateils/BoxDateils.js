@@ -28,7 +28,14 @@ const BoxDateils = () => {
         </div>
         <div className="author-book-details-biboo">Lisa Lutz</div>
         <div className="items-right-book-details-biboo">
-  
+          <button className="listen-for-free">NGHE AUDIO MIỄN PHÍ</button>
+          <button className="proofread">ĐỌC THỬ</button>
+          <button className="buy-books">
+            <div className="icon">
+              <img src="" alt="" />
+              <span>MUA NGAY</span>
+            </div>
+          </button>
         </div>
       </div>
     </div>
